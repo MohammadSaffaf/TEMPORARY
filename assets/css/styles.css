@@ -1,0 +1,307 @@
+/* 
+
+font-family: 'Open Sans', sans-serif;
+Farben: #002a5a, #efe8d7, #F4C4C4, #282b29, #7d2222, #DEB873, #D2D2D2,  */
+
+body{
+    padding: 0;
+    margin: 0;
+}
+.section-1{
+    
+    background-color: #efe8d7; 
+    height: 100%;
+    margin: 0;
+    padding-bottom: 10%;
+
+}
+.section-1 li{
+    display: inline;
+    list-style: none;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.section-1 .div-1{
+    padding-top: 1vh;
+    
+    
+    
+    
+    
+}
+.span-1{
+    display: inline-block;
+    width: 14%;
+    margin-bottom: 3.5%;
+    border-bottom: 4px solid #002a5a;
+ 
+}
+.li1{
+    
+   margin-right: 70%;
+   margin-left: 5%;
+}
+.section-1 ul{
+border-bottom: 1px solid #282b29;
+padding-bottom: 10px;
+margin-top: 0;
+position: fixed;
+
+width: 100%;
+color: #282b29;
+
+
+}
+@font-face {
+    src: url(font/Athene.otf);
+    font-family: athene;
+}
+.section-1 h1{
+    text-align: center;
+    font-family:athene;
+    font-size: 8rem;
+     margin: 3% 6%;
+    color: #002a5a;
+    padding: 3px 0;
+    font-weight: lighter;
+     border-bottom: 1px  solid black;    
+}
+.div-2{
+    
+    padding-left: 37%;
+    
+}
+.div-2 img{
+    width: 40%;
+    padding-bottom: 20px;
+}
+.c{
+    font-family: athene;
+    font-size: 25px;
+    color: #002a5a;
+
+}
+.d{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+}
+.section-2{
+    background-color: #F4C4C4; 
+    height: 100%vh;
+    margin: 0;
+    padding: 0;
+}
+.section-2 h1{ 
+       font-family: athene;
+       font-size: 10rem;
+       margin: 0;
+}
+.section-2 p{
+    margin-left: 6%;
+}
+.div-3{
+    padding-top: 5%;
+}
+th,td {
+    
+    border-bottom: 1px solid black;
+}
+th{
+    
+    padding-right: 43%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    font-size: 20px;
+    
+}
+.div-5{
+    
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 60%;
+    margin-right: 10%;
+    
+    
+}
+td{
+    font-size: 10px;
+}
+tr td:last-child{
+    
+    direction: rtl;
+}
+tr td:first-child{
+    
+    
+    padding-right: 4%;
+}
+table{
+    border-top: 1px solid black;
+}
+.div-5 h3{
+    
+    padding-left: 72%;
+   padding-right: 0;
+   margin-bottom: 0;
+   font-size: 12px;
+   
+}
+.div-5 .p-1{
+    
+    margin-left: 15%;
+    font-size: 12px;
+    padding-bottom: 5%;
+    margin-bottom: 8%;
+    
+}
+.img4{
+    height: 20vh;
+    margin-left: 80%;
+    margin-top: 10%;
+    padding-bottom: 10%;
+}
+.section-3{
+    
+    background-color: #DEB873; 
+    height: 210rem;
+    margin: 0;
+    padding: 0;
+    color: #7d2222;
+    
+}
+
+.section-3 h1{ 
+    font-family: athene;
+    font-size: 10rem;
+    margin: 0;
+}
+.section-3 p{
+ margin-right: 10%;
+}
+
+.div-6{
+ padding-top: 10%;
+ text-align: right;
+}
+.p-2{
+    font-size: 15px;
+}
+.div-7{
+    font-family: 'Open Sans', sans-serif;
+    
+    margin-left: 6%;
+    margin-right: 67.7%;
+    margin-top: 2%;
+    margin-bottom: 10%;
+}
+h2{
+    font-family: athene;
+    font-size: 4rem;
+    margin: 0;
+    
+}
+
+.div-8{
+    background: url(../img/bg-marconatto-1.jpg) center / cover no-repeat;
+    width: 50%;
+    height: 50vh;
+     margin-left: 40%;
+     margin-top: 5%;
+}
+ .article-1{
+   
+   margin-left:6% ;
+    
+    margin-top: -28%;
+    margin-bottom: 30%;
+
+}
+.div-9{
+    background: url(../img/kathe_cover-1.jpg) left / contain no-repeat;
+    width: 50%;
+    height: 50vh;
+    margin-left: 6%;
+}
+.article-2{
+    
+    margin-left: 65%;
+    margin-top: -26%;
+    margin-bottom: 30%;
+}
+
+.div-10{
+    background: url(../img/bg-nicole-1.jpg) right / contain no-repeat;
+    width: 50%;
+    height: 50vh;
+    margin-left: 40%;
+} 
+  .article-3{
+    margin-left:6.5% ;
+    
+    margin-top: -28%;
+    margin-bottom: 30%;
+
+  }
+  .div-11{
+      background: url(../img/boa_cover-1.jpg) 
+
+      left / contain no-repeat;
+      width: 50%;
+      height: 50vh;
+      margin-left: 6%;
+  }
+  .article-4{
+      
+      margin-left: 62%;
+      margin-top: -26%;
+      margin-bottom: 40%;
+  }
+
+    
+  .section-4{
+    
+    background-color: #D2D2D2; 
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    color: #1d8883;
+    
+}
+    
+.section-4 h1{ 
+    font-family: athene;
+    font-size: 10rem;
+    margin: 0;
+}
+.section-4 p{
+ margin-left: 6%;
+}
+.div-12{
+ padding-top: 5%;}
+ 
+ .div-13{
+    font-family: 'Open Sans', sans-serif;
+    
+    margin-left: 30%;
+    
+    margin-top: 2%;
+    margin-bottom: 10%;
+}
+footer ul{
+    direction: rtl;
+    text-decoration: none;
+    padding-bottom: 10%;
+    margin-right: 6%;
+}
+footer li{
+    list-style: none;
+    margin: 1.5%;
+    
+}
+ul a{
+    text-decoration: none;
+    color: #1d8883;
+}
+ul a:hover{
+    border-bottom: 1px solid #1d8883;
+}
